@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Stim](https://img.shields.io/badge/Stim-1.12+-purple)](https://github.com/quantumlib/Stim)
+[![Download PDF](https://img.shields.io/badge/⬇️_Download_Paper-PDF-red)](./Arndt_Spectral_Diffusion_Stabilization.pdf)
 
 This repository contains the simulation source code and reproduction data for the paper:  
 **"Real-Time Stabilization of Spectral Diffusion in Superconducting Qubits via Syndrome-Density Feedback and Adaptive Decoding"**
