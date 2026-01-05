@@ -62,12 +62,12 @@ python3 realistic_simulation.py
 
 ## 🔗 Citation
 
-If you use this code in your research, please cite the ArXiv preprint:
+If you use this code in your research, please cite the ArXiv preprint (in review):
 
 ```bibtex
 @article{HoloNeural2026,
   title={Real-Time Stabilization of Spectral Diffusion in Superconducting Qubits},
-  author={Your Name},
+  author={Justin Arndt},
   journal={arXiv preprint arXiv:2601.XXXXX},
   year={2026}
 }
